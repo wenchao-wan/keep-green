@@ -70,3 +70,8 @@ jobs:
           git commit --allow-empty -m "a commit a day keeps your girlfriend away"
           git push
 ```
+
+
+## 维护提示
+
+调整计划任务前，建议先确认仓库的 Actions 权限设置。
